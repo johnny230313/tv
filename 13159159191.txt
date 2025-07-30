@@ -1,5 +1,5 @@
 ﻿云霄综合,#genre#
-更新时间2025-0729,https://live.zzyxxw.com:2443/live/xwzh.m3u8
+更新时间2025-0730,https://live.zzyxxw.com:2443/live/xwzh.m3u8
 央视频道,#genre#
 CCTV1,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225812/index.m3u8
 CCTV1,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225812/index.m3u8
