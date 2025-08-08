@@ -17,7 +17,6 @@ CCTV2,http://221.199.193.213:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&
 CCTV2,http://221.199.193.26:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://110.72.59.171:8181/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://221.199.193.5:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视2,http://1.205.159.143:9999/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV3,http://106.118.70.201:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://1.198.67.131:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://221.199.193.39:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -143,7 +142,6 @@ CCTV17,http://221.199.193.129:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1
 CCTV17,http://222.218.158.110:8181/tsfile/live/1115_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17军事,http://1.198.67.131:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 卫视频道,#genre#
-
 东南卫视,http://110.72.79.151:8181/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://171.124.180.202:8899/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://110.72.59.171:8181/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -335,7 +333,8 @@ CCTV17军事,http://1.198.67.131:9901/tsfile/live/1027_1.m3u8?key=txiptv&playliv
 贵州卫视,http://221.199.193.129:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://221.199.193.195:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://221.199.193.191:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视1,http://1.205.159.143:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+贵州卫视,http://1.205.159.143:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+贵州卫视2,http://1.205.159.143:9999/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 贵州卫视4,http://1.205.159.143:9999/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
 贵州卫视5,http://1.205.159.143:9999/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 辽宁卫视,http://1.198.67.131:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
